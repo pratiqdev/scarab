@@ -1,8 +1,8 @@
 {
   "name": "scarab",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Super simple static sites",
+  "main": "dist/index.js",
   "type": "module",
   "bin": {
     "scarab": "./dist/index.js"
